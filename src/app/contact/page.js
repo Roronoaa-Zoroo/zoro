@@ -7,7 +7,7 @@ const ContactUs = () => {
         <title>Contact Us</title>
       </Head>
       <main>
-        <h1>Contact Us</h1>
+        <h1>Contact Us Zoro</h1>
         <p>If you have any questions, feel free to reach out to us!</p>
       </main>
       <a href="/">Back To Home</a>
